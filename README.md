@@ -1,7 +1,7 @@
 # HTML5 Semantic Containers Codealong
 
-Please fork and clone the starter code from this repository for the codealong. Then code along with the video below.
+<iframe width="640" height="480" src="//www.youtube.com/embed/xrDw6I4MSBk?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="640" height="480" src="//www.youtube.com/embed/xrDw6I4MSBk?rel=0" frameborder="0" allowfullscreen></iframe>
+<p><a href="https://www.youtube.com/watch?v=xrDw6I4MSBkY">HTML5 Semantic Containers Codealong</a></p>.
 
-After you finish, make sure you compare your results to the results in `images/`.
+Please fork and clone the starter code from this repository for the code along.
